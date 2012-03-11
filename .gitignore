@@ -1,0 +1,5 @@
+# Precompiled files
+*.pyc
+
+# Idea
+.idea/
